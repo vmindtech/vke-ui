@@ -1,2 +1,2 @@
 # vke-ui
-vk dashboard for horizon
+vke dashboard for OpenStack horizon
